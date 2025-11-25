@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nyi Nyi.
-- 👀 I’m interested in Robotics and Computer Engineering.
-- 🌱 I’m currently learning Deep Learning deployment.
+- 👋 Hi, We are Makers.
+- 👀 We're interested in Robotics and Computer Engineering.
+- 🌱 We're currently learning Deep Learning deployment.
 
 <!---
 nyi21466/nyi21466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
